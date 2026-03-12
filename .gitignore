@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# CMake build directories
+build/
+build-*/
+CMakeUserPresets.json
+
+# Binary
+bc
